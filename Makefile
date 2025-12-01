@@ -1,5 +1,5 @@
 
-VERSION=v1.0.2
+VERSION=v2.0.0
 GOOS=linux
 GOCMD=go
 GOBUILD=$(GOCMD) build
